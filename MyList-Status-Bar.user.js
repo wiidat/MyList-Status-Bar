@@ -1,19 +1,19 @@
 // ==UserScript==
-// @name        MyList Status Bar
-// @version     2.0
-// @namespace   Wiidat
-// @description UserScript for adding status bar to AniDB MyList page.
-// @license     GPL
-// @include     http://anidb.net/perl-bin/animedb.pl?*show=mylist*
-// @include     https://anidb.net/perl-bin/animedb.pl?*show=mylist*
-// @exclude     http://anidb.net/perl-bin/animedb.pl?*show=mylist*do=edit.state*
-// @exclude     http://anidb.net/perl-bin/animedb.pl?*show=mylist*do=cmp*
-// @exclude     http://anidb.net/perl-bin/animedb.pl?*show=mylist*do=mch*
-// @exclude     https://anidb.net/perl-bin/animedb.pl?*show=mylist*do=edit.state*
-// @exclude     https://anidb.net/perl-bin/animedb.pl?*show=mylist*do=cmp*
-// @exclude     https://anidb.net/perl-bin/animedb.pl?*show=mylist*do=mch*
-// @grant       none
-// @icon        http://static.anidb.net/favicon.ico
+// @name          MyList Status Bar
+// @version       2.0.1
+// @namespace     wiidat
+// @description   UserScript for adding status bar to AniDB MyList page.
+// @license       GPL
+// @include       http://anidb.net/perl-bin/animedb.pl?*show=mylist*
+// @include       https://anidb.net/perl-bin/animedb.pl?*show=mylist*
+// @exclude       http://anidb.net/perl-bin/animedb.pl?*show=mylist*do=edit.state*
+// @exclude       http://anidb.net/perl-bin/animedb.pl?*show=mylist*do=cmp*
+// @exclude       http://anidb.net/perl-bin/animedb.pl?*show=mylist*do=mch*
+// @exclude       https://anidb.net/perl-bin/animedb.pl?*show=mylist*do=edit.state*
+// @exclude       https://anidb.net/perl-bin/animedb.pl?*show=mylist*do=cmp*
+// @exclude       https://anidb.net/perl-bin/animedb.pl?*show=mylist*do=mch*
+// @grant         none
+// @icon          http://static.anidb.net/favicon.ico
 // @homepage	  https://github.com/wiidat/MyList-Status-Bar
 // @updateURL	  https://raw.githubusercontent.com/wiidat/MyList-Status-Bar/master/MyList-Status-Bar.user.js
 // @downloadURL	  https://raw.githubusercontent.com/wiidat/MyList-Status-Bar/master/MyList-Status-Bar.user.js
