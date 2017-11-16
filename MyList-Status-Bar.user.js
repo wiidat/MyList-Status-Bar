@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name          MyList Status Bar
-// @version       2.0.1
-// @namespace     wiidat
+// @version       2.0.2
+// @author        wiidat
 // @description   UserScript for adding status bar to AniDB MyList page.
 // @license       GPL
 // @include       http://anidb.net/perl-bin/animedb.pl?*show=mylist*
@@ -14,7 +14,7 @@
 // @exclude       https://anidb.net/perl-bin/animedb.pl?*show=mylist*do=mch*
 // @grant         none
 // @icon          http://static.anidb.net/favicon.ico
-// @homepage	  https://github.com/wiidat/MyList-Status-Bar
+// @homepageURL	  https://github.com/wiidat/MyList-Status-Bar
 // @updateURL	  https://raw.githubusercontent.com/wiidat/MyList-Status-Bar/master/MyList-Status-Bar.user.js
 // @downloadURL	  https://raw.githubusercontent.com/wiidat/MyList-Status-Bar/master/MyList-Status-Bar.user.js
 // ==/UserScript==
