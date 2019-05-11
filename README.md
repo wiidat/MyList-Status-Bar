@@ -5,6 +5,9 @@ without losing "Update Selected Anime" function.
 Modified version of Seiya_L's old script:
 http://userscripts-mirror.org/scripts/show/161844
 
+**v3.0**
+Script updated to work with Content Security Policy, no longer injects itself as inline script.
+
 **v2.0**
 - now works with HTTPS
 - fixed: page refreshing on expanding an anime title, script now writes code to a script class to the body of the html and works from there
