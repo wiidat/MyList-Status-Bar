@@ -3,7 +3,7 @@
 // @version       3.0.1
 // @author        wiidat
 // @description   UserScript for adding status bar to AniDB MyList page.
-// @license       GPL-3.0+
+// @license       GPL-3.0-or-later
 // @include       http://anidb.net/perl-bin/animedb.pl?*show=mylist*
 // @include       https://anidb.net/perl-bin/animedb.pl?*show=mylist*
 // @exclude       http://anidb.net/perl-bin/animedb.pl?*show=mylist*do=edit.state*
