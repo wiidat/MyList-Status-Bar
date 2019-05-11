@@ -7,6 +7,7 @@ http://userscripts-mirror.org/scripts/show/161844
 
 **v3.0**
 - Script updated to work with Content Security Policy, no longer injects itself as inline script.
+- Added @require field for Greasemonkey.
 
 **v2.0**
 - now works with HTTPS
