@@ -5,6 +5,9 @@ without losing "Update Selected Anime" function.
 Modified version of Seiya_L's old script:
 http://userscripts-mirror.org/scripts/show/161844
 
+**v3.5**
+- Target URLs are fixed.
+
 **v3.0**
 - Script updated to work with Content Security Policy, no longer injects itself as inline script.
 - Added @require field for Greasemonkey.
