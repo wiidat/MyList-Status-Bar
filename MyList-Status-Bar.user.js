@@ -6,6 +6,7 @@
 // @license       GPL-3.0-or-later
 // @include       http://anidb.net/user/mylist/*
 // @include       https://anidb.net/user/mylist/*
+// @require       http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js
 // @grant         none
 // @icon          http://static.anidb.net/favicon.ico
 // @homepageURL	  https://github.com/wiidat/MyList-Status-Bar
